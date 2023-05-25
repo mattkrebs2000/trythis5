@@ -1,44 +1,164 @@
-{
-  "name": "stickersmash",
-  "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+[
+  {
+    "eyeColor": "green",
+    "hairColor": "grey",
+    "name": "Bates Mejia",
+    "gender": "male",
+    "company": "CYTRAK",
+    "email": "batesmejia@cytrak.com",
+    "phone": "+1 (969) 470-3026"
   },
-  "dependencies": {
-    "@expo/vector-icons": "^13.0.0",
-    "@firebase/app": "^0.8.4",
-    "@firebase/auth": "^0.20.11",
-    "@firebase/database": "^0.14.4",
-    "@firebase/firestore": "^3.7.3",
-    "@react-native-async-storage/async-storage": "~1.17.3",
-    "@react-native-community/masked-view": "^0.1.11",
-    "@react-native-community/slider": "4.2.4",
-    "@react-navigation/native": "^6.0.16",
-    "@react-navigation/stack": "^6.3.7",
-    "crypto-es": "^1.2.7",
-    "expo": "^47.0.8",
-    "expo-av": "~13.0.3",
-    "expo-barcode-scanner": "~12.1.0",
-    "expo-sms": "~11.0.0",
-    "expo-status-bar": "~1.4.2",
-    "expo-web-browser": "~12.0.0",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "react-hook-form": "^7.40.0",
-    "react-native": "0.70.8",
-    "react-native-gesture-handler": "~2.8.0",
-    "react-native-paper": "^5.1.0",
-    "react-native-reanimated": "~2.12.0",
-    "react-native-safe-area-context": "4.4.1",
-    "react-native-screens": "~3.18.0",
-    "react-native-web": "^0.18.10"
+  {
+    "eyeColor": "green",
+    "hairColor": "grey",
+    "name": "Sanders Lara",
+    "gender": "male",
+    "company": "OPTICON",
+    "email": "sanderslara@opticon.com",
+    "phone": "+1 (861) 578-2073"
   },
-  "devDependencies": {
-    "@babel/core": "^7.12.9"
+  {
+    "eyeColor": "green",
+    "hairColor": "black",
+    "name": "Frank White",
+    "gender": "male",
+    "company": "KOG",
+    "email": "frankwhite@kog.com",
+    "phone": "+1 (836) 479-2937"
   },
-  "private": true
-}
+  {
+    "eyeColor": "brown",
+    "hairColor": "grey",
+    "name": "Lesley Odom",
+    "gender": "female",
+    "company": "MAGNINA",
+    "email": "lesleyodom@magnina.com",
+    "phone": "+1 (993) 535-2429"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "grey",
+    "name": "Walters Thompson",
+    "gender": "male",
+    "company": "SAVVY",
+    "email": "waltersthompson@savvy.com",
+    "phone": "+1 (995) 407-3708"
+  },
+  {
+    "eyeColor": "green",
+    "hairColor": "grey",
+    "name": "Sandra Kane",
+    "gender": "female",
+    "company": "BLUPLANET",
+    "email": "sandrakane@bluplanet.com",
+    "phone": "+1 (940) 439-2225"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "black",
+    "name": "Paula Thomas",
+    "gender": "female",
+    "company": "MAINELAND",
+    "email": "paulathomas@maineland.com",
+    "phone": "+1 (878) 417-2424"
+  },
+  {
+    "eyeColor": "green",
+    "hairColor": "grey",
+    "name": "Frankie Beasley",
+    "gender": "female",
+    "company": "AQUASURE",
+    "email": "frankiebeasley@aquasure.com",
+    "phone": "+1 (916) 424-2348"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "grey",
+    "name": "Rivera Day",
+    "gender": "male",
+    "company": "ZILLA",
+    "email": "riveraday@zilla.com",
+    "phone": "+1 (999) 439-3334"
+  },
+  {
+    "eyeColor": "brown",
+    "hairColor": "black",
+    "name": "Valerie Bender",
+    "gender": "female",
+    "company": "QUALITEX",
+    "email": "valeriebender@qualitex.com",
+    "phone": "+1 (847) 436-2408"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "black",
+    "name": "Steele Young",
+    "gender": "male",
+    "company": "GONKLE",
+    "email": "steeleyoung@gonkle.com",
+    "phone": "+1 (957) 456-3570"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "brown",
+    "name": "Ashley Mann",
+    "gender": "female",
+    "company": "OATFARM",
+    "email": "ashleymann@oatfarm.com",
+    "phone": "+1 (884) 410-3944"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "black",
+    "name": "Harrington Barnett",
+    "gender": "male",
+    "company": "ZEDALIS",
+    "email": "harringtonbarnett@zedalis.com",
+    "phone": "+1 (855) 475-3151"
+  },
+  {
+    "eyeColor": "brown",
+    "hairColor": "black",
+    "name": "Clemons Hickman",
+    "gender": "male",
+    "company": "ENJOLA",
+    "email": "clemonshickman@enjola.com",
+    "phone": "+1 (800) 581-2958"
+  },
+  {
+    "eyeColor": "brown",
+    "hairColor": "grey",
+    "name": "Sheryl Talley",
+    "gender": "female",
+    "company": "HELIXO",
+    "email": "sheryltalley@helixo.com",
+    "phone": "+1 (976) 424-3551"
+  },
+  {
+    "eyeColor": "green",
+    "hairColor": "black",
+    "name": "Gina Fernandez",
+    "gender": "female",
+    "company": "PEARLESSA",
+    "email": "ginafernandez@pearlessa.com",
+    "phone": "+1 (947) 570-2473"
+  },
+  {
+    "eyeColor": "green",
+    "hairColor": "brown",
+    "name": "Bray Dodson",
+    "gender": "male",
+    "company": "PROTODYNE",
+    "email": "braydodson@protodyne.com",
+    "phone": "+1 (994) 411-3938"
+  },
+  {
+    "eyeColor": "blue",
+    "hairColor": "black",
+    "name": "Dorothy Roberson",
+    "gender": "female",
+    "company": "INSURON",
+    "email": "dorothyroberson@insuron.com",
+    "phone": "+1 (996) 584-3144"
+  }
+]
